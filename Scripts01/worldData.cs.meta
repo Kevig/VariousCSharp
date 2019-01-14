@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cb66ddce9928f2e4fb18d6a69e74ab3b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - dirt: {fileID: 2100000, guid: 6c83dc9d84f97ac4986e36205ee3e0a0, type: 2}
+  - stone: {fileID: 2100000, guid: 6dac2ac2c90fd6441917bc83280f2238, type: 2}
+  - coal: {fileID: 2100000, guid: 9adcd7ba2a81f0343803e6dec67711cb, type: 2}
+  - iron: {fileID: 2100000, guid: b82fb987864b16542aaad87b2c14fcf8, type: 2}
+  - gold: {fileID: 2100000, guid: 214d204ee3f6c7840b4c22201fe0f5bf, type: 2}
+  - gems: {fileID: 2100000, guid: 2935b84e48fe1134ab43fe15721ef126, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

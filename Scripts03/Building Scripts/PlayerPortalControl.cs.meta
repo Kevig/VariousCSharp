@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ae206b0ddeb67f043890035a46061ccf
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - selectionHighlight: {fileID: 100010, guid: 10562348bf1813747a2d3f54c602b664, type: 2}
+  - PlayerPortal: {fileID: 100008, guid: 1582d419dc180df439ea606427477d53, type: 2}
+  - Grunt: {fileID: 100000, guid: 4453174500a67aa4aaa2c660e5066a1b, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

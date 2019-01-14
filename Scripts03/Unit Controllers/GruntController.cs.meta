@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 9ef1d9f06f1577348bf7d9a9e747e1bc
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Grunt: {fileID: 100000, guid: 4453174500a67aa4aaa2c660e5066a1b, type: 2}
+  - selectionHighlight: {fileID: 100010, guid: 10562348bf1813747a2d3f54c602b664, type: 2}
+  - MoveToTag: {fileID: 100000, guid: 02e693478af579946850cc58a43fe98c, type: 2}
+  - playerPortal: {fileID: 100008, guid: 1582d419dc180df439ea606427477d53, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
